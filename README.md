@@ -1,12 +1,13 @@
 # Diagramas_de_clases
-<p align="center">
 Ejercicios de diagramas de clases con el editor mermaid
+<p align="center">
+Este es el diagrama original del ejercicio
 
 ![image](https://user-images.githubusercontent.com/79007014/114208620-f8328200-995d-11eb-8bb1-e1ac98324e99.png)
 <p>
  
  <p align="center">
-Este es el diagrama original, a partir de este he hecho el primer ejercicio
+y este de aqui debajo es el editado con mermaid
 
 ![LECTURA](https://user-images.githubusercontent.com/79007014/114208746-1d26f500-995e-11eb-974d-50049cf8b3e9.png)
 <p>
@@ -73,8 +74,10 @@ Y este es el segundo diagrama a partir del cual he hecho el segundo ejercicio
   
  <p align="center">
 Y este el diagrama realizado con el editor mermaid
+ 
 ![PET](https://user-images.githubusercontent.com/79007014/114208796-2d3ed480-995e-11eb-9460-75511f36b300.png)
 <p>
+ 
  Seguido del codigo:
   
     Animal <|-- Spider
