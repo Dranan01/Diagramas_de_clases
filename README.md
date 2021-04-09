@@ -13,6 +13,7 @@ y este de aqui debajo es el editado con mermaid
 <p>
 y este seria el codigo del diagrama realizado con el editor mermaid
 
+##Codigo
     ReadingItem <|-- Encyclopedia
     ReadingItem <|-- Magazine
     ReadingItem <|-- Book
